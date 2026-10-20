@@ -1,0 +1,31 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: Arial, sans-serif;
+  background: #0a0a0a;
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+nav a { color: #fff; text-decoration: none; }
+nav a:hover { color: #00d4ff; }
+
+section {
+  padding: 80px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 { font-size: 3rem; }
+h2 { margin-bottom: 20px; }
+
+footer { text-align: center; padding: 30px; opacity: 0.6; }
+Compose
+Write to Juster James Roncales
